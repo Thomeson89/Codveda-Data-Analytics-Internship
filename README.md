@@ -5,7 +5,7 @@ This repository contains my projects and achievements for the one-month Data Ana
 | Level | Task Name | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **Level 1 (Basic)** | Data Cleaning & Preprocessing | ✅ Completed | [View Task](./Level_1/Task_1) |
-| **Level 1 (Basic)** | Exploratory Data Analysis (EDA) | ✅ Completed | [view Task](./Level_1/Task_1) |
+| **Level 1 (Basic)** | Exploratory Data Analysis (EDA) | ✅ Completed | [view Task](./Level_1/Task_2) |
 | **Level 2 (Intermediate)** | Regression Analysis | 🛑 Not Started | - |
 | **Level 2 (Intermediate)** | Time Series Analysis | 🛑 Not Started | - |
 | **Level 3 (Advanced)** | Predictive Modeling | 🛑 Not Started | - |

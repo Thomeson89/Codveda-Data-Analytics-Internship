@@ -9,4 +9,4 @@ This repository contains my projects and achievements for the one-month Data Ana
 | **Level 2 (Intermediate)** | Regression Analysis | ✅ Completed | [view Task](./Level_2/Task_1) | 
 | **Level 2 (Intermediate)** | Time Series Analysis | ✅ Completed | [view Task](./Level_2/Task_2) | 
 | **Level 3 (Advanced)** | Predictive Modeling | ✅ Completed | [view Task](./Level_3/Task_1) | 
-| **Level 3 (Advanced)** | Dashboard (Power BI) | 🛑 Not Started | - |
+| **Level 3 (Advanced)** | Dashboard (Power BI) |  ✅ Completed  | [view Task](./Level_3/Task_2) | 
